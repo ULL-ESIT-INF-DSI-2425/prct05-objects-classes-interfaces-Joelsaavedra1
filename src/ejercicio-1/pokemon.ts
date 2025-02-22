@@ -29,7 +29,7 @@ interface PokemonAttributes {
 }
 
 /**
- * Class Pokemon that conteins the information of the Pokemon and implements the interfaces PokemonStats and PokemonAttributes
+ * Class Pokemon that contains the information of the Pokemon and implements the interfaces PokemonStats and PokemonAttributes
  */
 export class Pokemon implements PokemonStats, PokemonAttributes {
   /**
